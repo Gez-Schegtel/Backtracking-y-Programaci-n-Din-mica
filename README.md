@@ -1,5 +1,6 @@
-# UNIVERSIDAD TECNOLÓGICA NACIONAL
-## FACULTAD REGIONAL RESISTENCIA
+'''
+title: Backtracking y Programación Dinámica.
+'''
 
 **Ingeniería en Sistemas de Información**
 
