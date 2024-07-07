@@ -1,9 +1,9 @@
 
 # Técnicas de Diseño: Backtracking y Programación Dinámica.
 
-**Ingeniería en Sistemas de Información**
+Carrera: Ingeniería en Sistemas de Información
 
-## Materia: Complejidad y Técnicas de Diseño de Algoritmos
+Materia: Complejidad y Técnicas de Diseño de Algoritmos
 
 ## Trabajo Práctico Integrador
 
@@ -18,4 +18,4 @@
 
 ## “Evaluación Booleana”
 
-El problema que resolveremos es el problema de Boolean Parenthesization (también conocido simplemente como “Evaluación Booleana”), el cual se trata de encontrar todas las configuraciones de paréntesis existentes para que una proposición (compuesta por los operandos `TRUE` y `FALSE`, con operadores de conjunción (AND), disyunción (OR) y disyunción exclusiva (XOR)) de como resultado `TRUE` en su evaluación.
+El problema que resolveremos es el problema de *Boolean Parenthesization* (también conocido simplemente como “Evaluación Booleana”), el cual se trata de encontrar todas las configuraciones de paréntesis existentes para que una proposición (compuesta por los operandos `TRUE` y `FALSE`, con operadores de conjunción (AND), disyunción (OR) y disyunción exclusiva (XOR)) de como resultado `TRUE` en su evaluación.
