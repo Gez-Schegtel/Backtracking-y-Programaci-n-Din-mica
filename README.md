@@ -1,6 +1,5 @@
----
-title: Técnicas de Diseño: Backtracking y Programación Dinámica.
----
+
+# Técnicas de Diseño: Backtracking y Programación Dinámica.
 
 **Ingeniería en Sistemas de Información**
 
