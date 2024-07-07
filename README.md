@@ -1,10 +1,10 @@
-'''
-title: Backtracking y Programación Dinámica.
-'''
+---
+title: Técnicas de Diseño: Backtracking y Programación Dinámica.
+---
 
 **Ingeniería en Sistemas de Información**
 
-### Materia: Complejidad y Técnicas de Diseño de Algoritmos
+## Materia: Complejidad y Técnicas de Diseño de Algoritmos
 
 ## Trabajo Práctico Integrador
 
